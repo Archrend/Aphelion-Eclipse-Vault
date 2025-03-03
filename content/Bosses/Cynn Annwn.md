@@ -1,10 +1,16 @@
 
 **Species:** [[Hethrûn]]
+
 **Faction:** [[Watchers of the Veil]]
+
 **Rank:** Exalted 
+
 **Purpose:** Stalker of the Shattered Veil
+
 **Current Location:** _Unknown_
+
 **Encounter Stage:** ???
+
 **Danger Level:**  ???
 
 
