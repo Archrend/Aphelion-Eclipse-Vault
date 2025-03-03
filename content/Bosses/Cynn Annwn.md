@@ -1,14 +1,16 @@
+
 **Species:** [[Hethrûn]]
 **Faction:** [[Watchers of the Veil]]
 **Rank:** Exalted 
 **Purpose:** Stalker of the Shattered Veil
-**Current Location:** _Unknown
+**Current Location:** _Unknown_
 **Encounter Stage:** ???
 **Danger Level:**  ???
 
+
 Once a noble protector, [[Cynn Annwn]] stood watch over the boundary between the mortal realm and the abyss. She was a fierce hound, her very being a shield against the horrors that lurked beyond [[The Veil]]. But when [[The Fracture]] occurred, the rift between worlds tore apart the fabric of reality, twisting her purpose and corrupting her mind. [[The Abyss]] she once fought against consumed her, and the protector became the predator.
 
-Unlike the other [[Hethrûn]], whose bonds with their Watchers were retained during [[The Fracture]], [[Cynn Annwn]]'s bond to her Watcher strong enough that, in his final act, he sacrificed his soul to merge back into her. This act allowed her to regain a sense of her former self and re-enter [[The Veil]] unlike the other [[Hethrûn]] in the realm who were lost to the madness of [[The Abyss]]. For a time, she retained more of her sanity, a fleeting moment of clarity in the overwhelming darkness of [[The Abyss]].
+Unlike the other [[Hethrûn]], whose bonds with their Watchers were retained during [[The Fracture]], [[Cynn Annwn]]'s bond to her Watcher strong enough that, in his final act, he sacrificed his soul to merge back into her. This act allowed her to regain a sense of her former self and re-enter [[The Veil]] unlike the other [[Hethrûn]] in the realm who were lost to the madness of [[The Abyss]]]. For a time, she retained more of her sanity, a fleeting moment of clarity in the overwhelming darkness of [[The Abyss]].
 
 However, the corruption of her mind was inevitable. The forces that twisted the fabric of reality had seeped deep into her mind, and no amount of strength could fully shield her from them. Despite her Watcher's sacrifice, [[Cynn Annwn]] could not resist the pull of [[The Abyss]]. Slowly, over time, she began to give into the darkness, her mind slipping further into madness. The fragment of her Watcher’s soul, though it had restored her, could not keep the corruption at bay.
 

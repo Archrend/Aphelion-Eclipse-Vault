@@ -1,11 +1,10 @@
 **Species:** Transformed [[Arcanid]]  
 **Faction:** [[The Cultists]]
-**Rank:**  Sage
+**Rank:**  Enlightened Sage
 **Purpose:** _Same as Rank_
 **Current Location:** [[The Outer Wilds]]
 **Encounter Stage:** Level 1
 **Danger Level:**  Major Threat 
-
 
 Among the outer ruins of the fracture, a vile creature known only as the Abyssal Weaver is said to be an echo of [[Xel'erim]]'s once-mighty form. 
 

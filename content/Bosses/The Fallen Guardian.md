@@ -1,3 +1,4 @@
+
 **Species** [[Arcane Automatons]]
 **Faction:** [[Royal City Guards]]
 **Rank:** City Gate Protector
