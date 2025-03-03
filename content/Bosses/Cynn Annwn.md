@@ -1,17 +1,10 @@
 **Species:** [[Hethrûn]]
-
 **Faction:** [[Watchers of the Veil]]
-
 **Rank:** Exalted 
-
 **Purpose:** Stalker of the Shattered Veil
-
 **Current Location:** _Unknown
-
 **Encounter Stage:** ???
-
 **Danger Level:**  ???
-
 
 Once a noble protector, [[Cynn Annwn]] stood watch over the boundary between the mortal realm and the abyss. She was a fierce hound, her very being a shield against the horrors that lurked beyond [[The Veil]]. But when [[The Fracture]] occurred, the rift between worlds tore apart the fabric of reality, twisting her purpose and corrupting her mind. [[The Abyss]] she once fought against consumed her, and the protector became the predator.
 

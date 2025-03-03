@@ -1,15 +1,9 @@
 **Species:** [[Arcanid]]  
-
 **Faction:** [[The Order of the Lower Archives]]
-
 **Rank:**  Profaned Protector of the Archives
-
 **Purpose:** Profaned Protector of the Archives
-
 **Current Location:** TBD  
-
 **Encounter Stage:** ???
-
 **Danger Level:**  ???
 
 Xel'erim, once a promising scholar of the [[Arcanid]] race, began her life with an unquenchable thirst for forbidden knowledge. Born a lesser [[Arcanid]], denoted as Xel'eb, she was destined to remain in the shadows of [[The Upper Archives]]. Yet, through cunning and ruthless intellect, Xel'erim quickly ascended the ranks, defying her status as a lowborn scholar. She grew obsessed with the mysteries hidden within [[The Lower Archives]], a place veiled in secrecy and forbidden to most of her kind. It was within these crumbling halls that she found her true purpose: to ascend beyond the limitations of her station. 

@@ -1,15 +1,9 @@
 **Species** [[Arcane Automatons]]
-
 **Faction:** [[Royal City Guards]]
-
 **Rank:** City Gate Protector
-
 **Purpose:** _Same as Rank_
-
 **Current Location:** [[The Outer Wilds]]
-
 **Encounter Stage:** Tutorial (Level 0)
-
 **Danger Level:** Major Threat 
 
 The Fallen Guardian once stood at the great gates of the royal city, an immense construct built to deny passage to those unworthy. It watched over the kingdom for decades, unwavering and unbreakable. During [[The Fracture]], a surge of abyssal energy struck the Guardian, warping its once-complete arcane runes and twisting the magic that gave it life. Its glowing core dimmed, flickering with unstable power, and its once-precise movements became sluggish and erratic. 
